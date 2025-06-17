@@ -1,4 +1,4 @@
-# Movie App
+# MoviesHub
 
 A Flutter application that allows users to browse and search for movies using TMDB API.
 
@@ -49,3 +49,7 @@ A Flutter application that allows users to browse and search for movies using TM
 ## Contributing
 
 Feel free to submit issues and enhancement requests.
+=======
+# MoviesHub
+A Flutter application that allows users to browse and search for movies using TMDB API.
+>>>>>>> cb7ca283c3bcc70f5fd09b104aaed5869bf2ac04
